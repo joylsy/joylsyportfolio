@@ -1,0 +1,46 @@
+#section1 {padding-top:50px;height:500px;color: #fff; background-color: #1E88E5;}
+  #section2 {padding-top:50px;height:500px;color: #fff; background-color: #673ab7;}
+  #section3 {padding-top:50px;height:500px;color: #fff; background-color: #ff9800;}
+  #section41 {padding-top:50px;height:500px;color: #fff; background-color: #00bcd4;}
+  #section42 {padding-top:50px;height:500px;color: #fff; background-color: #009688;}
+
+.navbar-dark{
+  height: 50px;
+  border: none;
+  background-color: #e3f2fd;
+    /*#474e5d;; */
+  color: white;
+}
+
+.bg-1 { 
+    background-color:#5B7444;
+    color: white;
+    font-family:Helvetica;
+    padding: 0px 0px 10px 0px;
+    margin: 0px 0px 0px 0px;    
+    border-style: solid;
+    border-width: 2px;    
+     }
+
+.bg-2 {
+     background-color:#47697E;
+     color: white;
+     /*margin: 0px 20px 0px 20px; */
+     padding: 70px 0px 10px 70px;
+}
+/* #47697E #688B9A #5B7444 #A3C586 #FFCC33 #FCF1D1 */
+.bg-3 {
+    background-color:#A3C586; 
+    /* rgb(145,210,245); */ 
+    color: white;
+    font-size: 14px;
+    padding: 70px 10px 10px 70px;
+  
+}
+/* #47697E #688B9A #5B7444 #A3C586 #FCF1D1 */
+.bg-4 {
+    background-color: steelblue #5B7444  #474e5d;  /*  Dark Blue */
+    color: white;
+    font-type: bold;
+    padding: 70px 10px 10px 70px; 
+}

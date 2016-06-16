@@ -1,0 +1,220 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Slab:400,100|Monserat');
+
+/* #47697E #688B9A #5B7444 #A3C586 #FCF1D1 */
+/* #474E5D -> #474E5D */
+
+.crop {
+    height: 600px;
+    width: 600px;
+    overflow: hidden;
+}
+
+.thumbnail, .img-thumbnail {
+    box-shadow: none;
+    /*
+    .newtab-thumbnail {
+    background-clip: padding-box;
+    background-origin: padding-box;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 8px 8px 0 0;
+    height: 180px;
+    */
+    overflow: hidden;
+    transition: opacity 100ms ease-out 0s;
+}
+}
+
+.navbar-brand {
+    padding: 11px;
+    color: #fff;
+}
+
+.navbar-toggle
+{
+    color: #20395A
+}
+
+.navbar .nav > li > a {
+    float: none;
+    line-height: 19px;
+    padding: 9px 10px 11px;
+    text-decoration: none;
+    text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
+    color:  #fff;
+}
+
+.navbar-dark .nav > li > a:hover {
+    background-color: #474E5D;
+    color: #fff;
+    text-decoration: none;
+    border-color: grey;
+    border-style: double;
+    border-width: .5px;
+}
+
+.navbar-dark .nav > li > a:focus
+{
+ background-color: #474E5D;
+ text-decoration:none;
+}
+
+.navbar-toggle .icon-bar {
+  display: block;
+  width: 22px;
+  height: 2px;
+  background-color: #cccccc;
+  border-radius: 5px;
+}
+
+/*
+.navbar > li > a:hover, .nav > li > a:focus {
+    background-color: #474E5D;
+    text-decoration: none;
+}
+
+.navbar-brand .navbar >li >a:hover, .navbar >li >a:focus {
+    line-height: 20px;
+    padding: 10px;
+}
+
+.navbar-brand .navbar .nav > li > a {
+    color: #fff;
+}
+
+
+.navbar-collapse.collapse {
+    display: none!important;
+    #4C8577
+}
+*/
+
+#section1 {
+  padding-top:90px;
+  padding-left:50px;  
+  color: #fff; 
+  background-color: #175B39;
+  background-image: 
+    url("http://portfolio.connectsystemservices.com/images/background1.png")}
+  
+.thumbnail{
+     background: transparent !important;
+     border-color: transparent !important;
+     border: none transparent !important;
+}
+
+.thumbnail, .img-thumbnail
+{
+/*box-shadow:0 0 0 rgba(0, 0, 0, 0.075) */
+box-shadow: none;
+}
+
+.thumbnail > p {
+    /*
+    color: #474E5D;
+    border-color: transparent !important;
+    */
+}
+
+#section21 { 
+    padding:5px 50px 0px 50px;
+    background-image: 
+    url("http://portfolio.connectsystemservices.com/images/background1.png")
+}
+
+#section22 {
+  padding:0px 50px 0px 50px;    
+    background-image: 
+    url("http://portfolio.connectsystemservices.com/images/background1.png")
+}
+
+#section23 {
+  padding:0px 50px 0px 50px;    
+    background-image: 
+    url("http://portfolio.connectsystemservices.com/images/background1.png")
+}
+
+#section24 {
+  padding:5px 50px 0px 50px;   
+    background-image: 
+    url("http://portfolio.connectsystemservices.com/images/background1.png")
+}
+
+#section25 {
+  padding:5px 50px 0px 50px;   
+    background-image: 
+    url("http://portfolio.connectsystemservices.com/images/background1.png")
+}
+
+#section3 {padding-top:50px;height:500px;color: #fff; background-color: #ff9800;}
+#section41 {padding-top:50px;height:500px;color: #fff; background-color: #6B99A2 }
+    /* #6A959D; #688B9A  #467B85 #4B7183*/
+  #section42 {padding-top:50px;height:500px;color: #fff; background-color: #009688;}
+
+.navbar-custom{
+  height: 50px;
+  border: none;
+  background: #474E5D; 
+  color: #fffff;
+  font-weight: 300;
+  font-size: 18px;  
+  padding: 0px 20px 0px 0px;
+}
+
+
+.bg-1 { 
+    background-color:#5B7444;
+    color: white;
+    font-family:Helvetica;
+    padding: 0px 0px 10px 0px;
+    margin: 0px 0px 0px 0px;    
+    border-style: solid;
+    border-width: 2px;    
+     }
+
+.bg-2 {
+     background-color:#47697E;
+     color: white;
+     /*margin: 0px 20px 0px 20px; */
+     padding: 70px 0px 10px 70px;
+}
+/* #47697E #688B9A #5B7444 #A3C586 #FFCC33 #FCF1D1 */
+.bg-3 {
+    background-color:#5B7444; 
+    /* rgb(145,210,245); */ 
+    color: white;
+    font-size: 14px;
+    padding: 70px 10px 10px 70px;
+  
+}
+.bg-4 {
+    background-color: #8eb8e5;  /*  Dark Blue */
+    color: white;
+    font-type: bold;
+    padding: 70px 10px 10px 70px; 
+}
+
+.bg-5 {
+    background-color: #52AD9C;  /*  Dark Blue */
+    color: white;
+    font-type: bold;
+    padding: 70px 10px 10px 70px; 
+}
+
+p {    
+  font-size: 15px;
+  font-weight:light;
+  padding: 0px 0px 20px 0px;
+}
+
+#p-important {
+  font-family:Monserat;
+  font-style: oblique;  
+  font-size: 100%;
+  padding: 20px 0px 0px 0px;
+}
+
+.word-emphasize {
+  font-size:140%;    
+}
+
